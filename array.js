@@ -24,4 +24,6 @@ carros.forEach(
       console.log("carro", carro, index, array);
   });
 
+  //CALLBACK É UMA FUNCAO QUE É PASSADA COMO PARAMETRO;D
+
 console.log(carros);
